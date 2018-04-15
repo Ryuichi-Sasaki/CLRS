@@ -1,2 +1,2 @@
-# CLRS
-Introduction to Algorithms 3rd Edition (CLRS)
+# アルゴリズムイントロダクション（CLRS）
+問題の解答を置いておくリポジトリ
