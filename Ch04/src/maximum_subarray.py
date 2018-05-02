@@ -36,9 +36,6 @@
 """
 
 
-from random import randint
-
-
 def maximum_diff_brute_force(A):
     """ 総当たり法 Θ(n^2)
     """
