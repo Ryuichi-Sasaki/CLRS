@@ -34,7 +34,7 @@ deleteはO(1)で実行できない。
 prevポインタを定数時間で取得できないため。
 
 # 10.2-2
-[singly_linked_stack.py](./src/singly_linked_stack.py)に書いた。
+[singly_linked_list_stack.py](./src/singly_linked_list_stack.py)に書いた。
 
 # 10.2-4
 L.nil.key = kとする。
